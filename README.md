@@ -8,3 +8,5 @@ inside `/client` run `npm run dev` and inside `/server` run `npm start`
 
 also open new terminal and run `peerjs --port 3001`
 
+
+Now you can open the app in `localhost:5173`
